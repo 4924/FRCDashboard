@@ -1,22 +1,12 @@
 {
-  "name": "FRCDashboard",
+  "name": "dashboard",
   "version": "v2.0.0",
-  "description": "Dashboard for extra robot controls in FRC. Experimental Electron environment.",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FRCDashboard/FRCDashboard"
-  },
-  "author": "FRCDashboard",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
-  },
-  "homepage": "http://frcdashboard.github.io",
   "devDependencies": {
-    "electron-prebuilt": "^1.2.0"
+    "electron-prebuilt": "*"
   }
 }
